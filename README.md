@@ -2,8 +2,6 @@
 
 I am currently a Master's Computer Science Student at Columbia University studying software systems. Thanks for checking out all of my projects.
 
-Continue...
-
 <!--
 **Matt20D/Matt20D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
