@@ -2,7 +2,7 @@
 
 I am currently a Master's Computer Science Student at Columbia University studying software systems. Check out my website (www.mmduran.com) and all of my projects.
 
-All of my projects are currently in a private repository. Feel free to ask and I will provide access.
+All of my Columbia University projects are currently in a private repository. Feel free to ask and I will provide access.
 <!--
 **Matt20D/Matt20D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
